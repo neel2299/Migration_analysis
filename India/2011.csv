@@ -1,0 +1,1231 @@
+From,To,Weight
+Lakshadweep,State - ARUNACHAL PRADESH (12),1
+Andaman & Nicobar Islands,State - ARUNACHAL PRADESH (12),1
+Chhattisgarh,State - MANIPUR (14),1
+Dadra & Nagar Haveli,State - MANIPUR (14),1
+Lakshadweep,State - MIZORAM (15),1
+Mizoram,State - LAKSHADWEEP (31),1
+Tripura,State - LAKSHADWEEP (31),1
+Meghalaya,State - LAKSHADWEEP (31),1
+Jharkhand,State - LAKSHADWEEP (31),1
+Andaman & Nicobar Islands,State - MIZORAM (15),2
+Uttarakhand,State - LAKSHADWEEP (31),2
+Assam,State - LAKSHADWEEP (31),2
+Chhattisgarh,State - LAKSHADWEEP (31),2
+Lakshadweep,State - PUDUCHERRY (34),2
+Dadra & Nagar Haveli,State - SIKKIM (11),3
+Puducherry,State - ARUNACHAL PRADESH (12),3
+Lakshadweep,State - MANIPUR (14),3
+Puducherry,State - MIZORAM (15),3
+Dadra & Nagar Haveli,State - MEGHALAYA (17),3
+Andaman & Nicobar Islands,State - MEGHALAYA (17),3
+Nagaland,State - DADRA & NAGAR HAVELI (26),3
+Tripura,State - DADRA & NAGAR HAVELI (26),3
+Jammu & Kashmir,State - LAKSHADWEEP (31),3
+Arunachal Pradesh,State - LAKSHADWEEP (31),3
+Daman & Diu,State - JAMMU & KASHMIR (01),4
+Chandigarh,State - MIZORAM (15),4
+Dadra & Nagar Haveli,State - TRIPURA (16),4
+Dadra & Nagar Haveli,State - CHHATTISGARH (22),4
+Meghalaya,State - DAMAN & DIU (25),4
+Goa,State - LAKSHADWEEP (31),4
+Puducherry,State - LAKSHADWEEP (31),4
+Daman & Diu,State - PUDUCHERRY (34),4
+Dadra & Nagar Haveli,State - JAMMU & KASHMIR (01),5
+Puducherry,State - HIMACHAL PRADESH (02),5
+Dadra & Nagar Haveli,State - PUNJAB (03),5
+Lakshadweep,State - CHANDIGARH (04),5
+Goa,State - TRIPURA (16),5
+Daman & Diu,State - JHARKHAND (20),5
+Arunachal Pradesh,State - DAMAN & DIU (25),5
+Nagaland,State - DAMAN & DIU (25),5
+Punjab,State - LAKSHADWEEP (31),5
+Haryana,State - LAKSHADWEEP (31),5
+Rajasthan,State - LAKSHADWEEP (31),5
+Daman & Diu,State - PUNJAB (03),6
+Dadra & Nagar Haveli,State - NAGALAND (13),6
+Gujarat,State - MIZORAM (15),6
+Chandigarh,State - TRIPURA (16),6
+Puducherry,State - MEGHALAYA (17),6
+Dadra & Nagar Haveli,State - ASSAM (18),6
+Puducherry,State - DAMAN & DIU (25),6
+Andaman & Nicobar Islands,State - DADRA & NAGAR HAVELI (26),6
+Dadra & Nagar Haveli,State - HIMACHAL PRADESH (02),7
+Dadra & Nagar Haveli,State - CHANDIGARH (04),7
+Dadra & Nagar Haveli,State - HARYANA (06),7
+Chandigarh,State - ARUNACHAL PRADESH (12),7
+Dadra & Nagar Haveli,State - JHARKHAND (20),7
+Puducherry,State - DADRA & NAGAR HAVELI (26),7
+Nagaland,State - PUDUCHERRY (34),7
+Puducherry,State - JAMMU & KASHMIR (01),8
+NCT of Delhi,State - NAGALAND (13),8
+Chandigarh,State - MANIPUR (14),8
+Sikkim,State - TRIPURA (16),8
+Lakshadweep,State - TRIPURA (16),8
+Lakshadweep,State - GUJARAT (24),8
+Daman & Diu,State - BIHAR (10),9
+Uttar Pradesh,State - LAKSHADWEEP (31),9
+Daman & Diu,State - CHANDIGARH (04),10
+Chhattisgarh,State - MIZORAM (15),10
+Daman & Diu,State - ODISHA (21),10
+Manipur,State - DAMAN & DIU (25),10
+Arunachal Pradesh,State - DADRA & NAGAR HAVELI (26),10
+Bihar,State - LAKSHADWEEP (31),10
+Mizoram,State - ANDAMAN & NICOBAR ISLANDS (35),10
+Puducherry,State - NAGALAND (13),11
+Andaman & Nicobar Islands,State - NAGALAND (13),11
+Dadra & Nagar Haveli,State - ANDHRA PRADESH (28),11
+Chandigarh,State - PUDUCHERRY (34),11
+Daman & Diu,State - ANDAMAN & NICOBAR ISLANDS (35),11
+Goa,State - MANIPUR (14),12
+Puducherry,State - ASSAM (18),12
+Lakshadweep,State - ODISHA (21),12
+Himachal Pradesh,State - PUDUCHERRY (34),12
+Sikkim,State - PUDUCHERRY (34),12
+Sikkim,State - ANDAMAN & NICOBAR ISLANDS (35),12
+Lakshadweep,State - HIMACHAL PRADESH (02),13
+Lakshadweep,State - ANDAMAN & NICOBAR ISLANDS (35),13
+Daman & Diu,State - WEST BENGAL (19),14
+Mizoram,State - CHHATTISGARH (22),14
+Lakshadweep,State - CHHATTISGARH (22),14
+Lakshadweep,State - GOA (30),14
+Meghalaya,State - PUDUCHERRY (34),14
+Arunachal Pradesh,State - ANDAMAN & NICOBAR ISLANDS (35),14
+Andaman & Nicobar Islands,State - MANIPUR (14),15
+Himachal Pradesh,State - MIZORAM (15),15
+Puducherry,State - TRIPURA (16),15
+Goa,State - MEGHALAYA (17),15
+Manipur,State - ANDAMAN & NICOBAR ISLANDS (35),15
+Lakshadweep,State - JHARKHAND (20),16
+Arunachal Pradesh,State - GOA (30),16
+Sikkim,State - MIZORAM (15),17
+Arunachal Pradesh,State - PUDUCHERRY (34),17
+Chhattisgarh,State - PUDUCHERRY (34),17
+Nagaland,State - ANDAMAN & NICOBAR ISLANDS (35),17
+Puducherry,State - CHHATTISGARH (22),18
+Odisha,State - LAKSHADWEEP (31),18
+Madhya Pradesh,State - LAKSHADWEEP (31),18
+Meghalaya,State - ANDAMAN & NICOBAR ISLANDS (35),18
+Goa,State - ARUNACHAL PRADESH (12),19
+Goa,State - NAGALAND (13),19
+Gujarat,State - MANIPUR (14),19
+Daman & Diu,State - CHHATTISGARH (22),20
+Chandigarh,State - DADRA & NAGAR HAVELI (26),20
+Tripura,State - GOA (30),20
+Dadra & Nagar Haveli,State - GOA (30),20
+Dadra & Nagar Haveli,State - KERALA (32),20
+Chandigarh,State - ANDAMAN & NICOBAR ISLANDS (35),20
+Mizoram,State - GOA (30),21
+Puducherry,State - CHANDIGARH (04),22
+Daman & Diu,State - UTTAR PRADESH (09),22
+Andaman & Nicobar Islands,State - BIHAR (10),22
+Odisha,State - MANIPUR (14),22
+Jammu & Kashmir,State - MIZORAM (15),22
+Mizoram,State - GUJARAT (24),22
+NCT of Delhi,State - LAKSHADWEEP (31),22
+Dadra & Nagar Haveli,State - ODISHA (21),23
+Manipur,State - DADRA & NAGAR HAVELI (26),23
+Sikkim,State - GOA (30),23
+Andaman & Nicobar Islands,State - JAMMU & KASHMIR (01),24
+Daman & Diu,State - HIMACHAL PRADESH (02),24
+Mizoram,State - BIHAR (10),24
+Sikkim,State - MANIPUR (14),24
+Daman & Diu,State - KERALA (32),24
+Goa,State - ASSAM (18),25
+Andaman & Nicobar Islands,State - LAKSHADWEEP (31),25
+Lakshadweep,State - UTTARAKHAND (05),26
+Daman & Diu,State - SIKKIM (11),26
+Daman & Diu,State - TAMIL NADU (33),26
+Mizoram,State - JAMMU & KASHMIR (01),28
+Daman & Diu,State - HARYANA (06),28
+Chandigarh,State - SIKKIM (11),28
+Manipur,State - PUDUCHERRY (34),28
+Daman & Diu,State - NCT OF DELHI (07),29
+Goa,State - SIKKIM (11),29
+Lakshadweep,State - ANDHRA PRADESH (28),29
+Tripura,State - PUDUCHERRY (34),29
+Tripura,State - DAMAN & DIU (25),30
+Puducherry,State - GOA (30),30
+Uttarakhand,State - PUDUCHERRY (34),30
+Lakshadweep,State - JAMMU & KASHMIR (01),31
+Nagaland,State - CHANDIGARH (04),31
+Chandigarh,State - NAGALAND (13),31
+Andaman & Nicobar Islands,State - DAMAN & DIU (25),31
+Daman & Diu,State - ANDHRA PRADESH (28),31
+Himachal Pradesh,State - ANDAMAN & NICOBAR ISLANDS (35),32
+Kerala,State - MANIPUR (14),33
+Dadra & Nagar Haveli,State - MADHYA PRADESH (23),33
+Puducherry,State - MADHYA PRADESH (23),33
+Andaman & Nicobar Islands,State - HIMACHAL PRADESH (02),34
+Lakshadweep,State - HARYANA (06),34
+Himachal Pradesh,State - MANIPUR (14),34
+Madhya Pradesh,State - MANIPUR (14),34
+Andaman & Nicobar Islands,State - ASSAM (18),34
+Puducherry,State - JHARKHAND (20),34
+Mizoram,State - ODISHA (21),34
+Puducherry,State - ANDAMAN & NICOBAR ISLANDS (35),34
+Punjab,State - MANIPUR (14),35
+Uttarakhand,State - MANIPUR (14),35
+Meghalaya,State - GOA (30),35
+Himachal Pradesh,State - TRIPURA (16),36
+Chhattisgarh,State - TRIPURA (16),36
+Lakshadweep,State - WEST BENGAL (19),36
+Chandigarh,State - DAMAN & DIU (25),36
+Dadra & Nagar Haveli,State - KARNATAKA (29),36
+Jammu & Kashmir,State - PUDUCHERRY (34),36
+Jammu & Kashmir,State - MANIPUR (14),37
+Jammu & Kashmir,State - DADRA & NAGAR HAVELI (26),37
+Andhra Pradesh,State - MANIPUR (14),38
+Odisha,State - MIZORAM (15),38
+Mizoram,State - SIKKIM (11),39
+Chandigarh,State - MEGHALAYA (17),39
+Haryana,State - MANIPUR (14),40
+Mizoram,State - CHANDIGARH (04),41
+Tripura,State - CHANDIGARH (04),41
+Daman & Diu,State - UTTARAKHAND (05),41
+Jharkhand,State - MANIPUR (14),41
+West Bengal,State - LAKSHADWEEP (31),41
+Andhra Pradesh,State - LAKSHADWEEP (31),41
+Daman & Diu,State - KARNATAKA (29),44
+Lakshadweep,State - TAMIL NADU (33),44
+Dadra & Nagar Haveli,State - NCT OF DELHI (07),45
+Chhattisgarh,State - SIKKIM (11),45
+Lakshadweep,State - ASSAM (18),45
+Sikkim,State - CHHATTISGARH (22),45
+Jammu & Kashmir,State - DAMAN & DIU (25),45
+Sikkim,State - CHANDIGARH (04),46
+Puducherry,State - RAJASTHAN (08),46
+Chhattisgarh,State - MEGHALAYA (17),46
+Dadra & Nagar Haveli,State - UTTARAKHAND (05),47
+Punjab,State - MIZORAM (15),47
+Madhya Pradesh,State - MIZORAM (15),48
+Puducherry,State - UTTARAKHAND (05),49
+Gujarat,State - LAKSHADWEEP (31),49
+Jammu & Kashmir,State - ANDAMAN & NICOBAR ISLANDS (35),49
+Tripura,State - ANDAMAN & NICOBAR ISLANDS (35),50
+Arunachal Pradesh,State - CHANDIGARH (04),51
+Lakshadweep,State - DAMAN & DIU (25),51
+Nagaland,State - GOA (30),51
+Mizoram,State - HIMACHAL PRADESH (02),53
+Goa,State - CHANDIGARH (04),53
+Jharkhand,State - PUDUCHERRY (34),53
+Nagaland,State - JAMMU & KASHMIR (01),55
+Punjab,State - TRIPURA (16),55
+Lakshadweep,State - MADHYA PRADESH (23),55
+Lakshadweep,State - DADRA & NAGAR HAVELI (26),55
+Lakshadweep,State - RAJASTHAN (08),57
+Manipur,State - CHHATTISGARH (22),57
+Daman & Diu,State - RAJASTHAN (08),58
+Puducherry,State - BIHAR (10),58
+Chhattisgarh,State - ARUNACHAL PRADESH (12),58
+Haryana,State - MIZORAM (15),58
+Karnataka,State - MIZORAM (15),59
+Goa,State - DAMAN & DIU (25),59
+Haryana,State - PUDUCHERRY (34),62
+Tripura,State - HIMACHAL PRADESH (02),63
+Andaman & Nicobar Islands,State - UTTARAKHAND (05),63
+Arunachal Pradesh,State - MANIPUR (14),63
+Andhra Pradesh,State - MIZORAM (15),64
+Sikkim,State - JAMMU & KASHMIR (01),65
+Tamil Nadu,State - MIZORAM (15),66
+Himachal Pradesh,State - DAMAN & DIU (25),66
+Puducherry,State - PUNJAB (03),67
+Chhattisgarh,State - NAGALAND (13),67
+Sikkim,State - MEGHALAYA (17),67
+Goa,State - PUDUCHERRY (34),68
+Meghalaya,State - CHHATTISGARH (22),69
+Rajasthan,State - MIZORAM (15),70
+Chandigarh,State - GOA (30),70
+Dadra & Nagar Haveli,State - RAJASTHAN (08),71
+Tripura,State - SIKKIM (11),73
+Gujarat,State - ARUNACHAL PRADESH (12),74
+Sikkim,State - GUJARAT (24),74
+Haryana,State - TRIPURA (16),75
+Daman & Diu,State - LAKSHADWEEP (31),75
+Goa,State - JAMMU & KASHMIR (01),76
+Sikkim,State - KERALA (32),76
+Goa,State - HIMACHAL PRADESH (02),77
+Lakshadweep,State - NCT OF DELHI (07),77
+Tripura,State - BIHAR (10),77
+Karnataka,State - LAKSHADWEEP (31),77
+Mizoram,State - KERALA (32),77
+Nagaland,State - HIMACHAL PRADESH (02),78
+Puducherry,State - ODISHA (21),78
+Nagaland,State - CHHATTISGARH (22),78
+Arunachal Pradesh,State - JAMMU & KASHMIR (01),79
+Andaman & Nicobar Islands,State - SIKKIM (11),79
+Gujarat,State - NAGALAND (13),80
+Maharashtra,State - MIZORAM (15),80
+Sikkim,State - JHARKHAND (20),80
+Mizoram,State - JHARKHAND (20),81
+Uttarakhand,State - ANDAMAN & NICOBAR ISLANDS (35),81
+Andaman & Nicobar Islands,State - CHANDIGARH (04),83
+Himachal Pradesh,State - DADRA & NAGAR HAVELI (26),85
+Sikkim,State - NAGALAND (13),86
+Tripura,State - CHHATTISGARH (22),86
+Andaman & Nicobar Islands,State - MADHYA PRADESH (23),86
+Gujarat,State - SIKKIM (11),87
+Sikkim,State - ARUNACHAL PRADESH (12),87
+Andaman & Nicobar Islands,State - PUDUCHERRY (34),88
+Meghalaya,State - JAMMU & KASHMIR (01),89
+Puducherry,State - UTTAR PRADESH (09),90
+Arunachal Pradesh,State - MIZORAM (15),91
+Goa,State - DADRA & NAGAR HAVELI (26),91
+Mizoram,State - HARYANA (06),92
+Madhya Pradesh,State - TRIPURA (16),93
+Uttarakhand,State - MIZORAM (15),95
+Dadra & Nagar Haveli,State - TAMIL NADU (33),96
+Punjab,State - PUDUCHERRY (34),96
+Puducherry,State - WEST BENGAL (19),97
+Jammu & Kashmir,State - TRIPURA (16),99
+Uttarakhand,State - TRIPURA (16),100
+Kerala,State - TRIPURA (16),100
+Tamil Nadu,State - MANIPUR (14),101
+Puducherry,State - HARYANA (06),102
+Karnataka,State - TRIPURA (16),102
+Manipur,State - JAMMU & KASHMIR (01),103
+Kerala,State - MIZORAM (15),103
+Meghalaya,State - CHANDIGARH (04),104
+Sikkim,State - ODISHA (21),104
+Nagaland,State - JHARKHAND (20),105
+Tamil Nadu,State - SIKKIM (11),106
+Meghalaya,State - HIMACHAL PRADESH (02),109
+Haryana,State - DAMAN & DIU (25),110
+Goa,State - BIHAR (10),112
+Daman & Diu,State - GOA (30),112
+Gujarat,State - TRIPURA (16),113
+Lakshadweep,State - PUNJAB (03),115
+Dadra & Nagar Haveli,State - LAKSHADWEEP (31),115
+Manipur,State - HIMACHAL PRADESH (02),116
+Tripura,State - MANIPUR (14),116
+Arunachal Pradesh,State - JHARKHAND (20),116
+Dadra & Nagar Haveli,State - DAMAN & DIU (25),116
+Sikkim,State - ANDHRA PRADESH (28),117
+Dadra & Nagar Haveli,State - UTTAR PRADESH (09),119
+Andaman & Nicobar Islands,State - PUNJAB (03),120
+Arunachal Pradesh,State - CHHATTISGARH (22),120
+Nagaland,State - SIKKIM (11),121
+Kerala,State - SIKKIM (11),123
+Arunachal Pradesh,State - ANDHRA PRADESH (28),123
+Dadra & Nagar Haveli,State - WEST BENGAL (19),125
+Manipur,State - JHARKHAND (20),125
+Daman & Diu,State - MADHYA PRADESH (23),125
+NCT of Delhi,State - MIZORAM (15),126
+Mizoram,State - MADHYA PRADESH (23),126
+Mizoram,State - UTTAR PRADESH (09),127
+Andhra Pradesh,State - TRIPURA (16),127
+Andaman & Nicobar Islands,State - RAJASTHAN (08),128
+Tripura,State - KERALA (32),129
+Karnataka,State - MANIPUR (14),130
+Punjab,State - DAMAN & DIU (25),130
+Chandigarh,State - JHARKHAND (20),131
+Goa,State - CHHATTISGARH (22),134
+Andaman & Nicobar Islands,State - HARYANA (06),135
+Tripura,State - JAMMU & KASHMIR (01),137
+Karnataka,State - ARUNACHAL PRADESH (12),138
+Mizoram,State - ANDHRA PRADESH (28),138
+Madhya Pradesh,State - ANDAMAN & NICOBAR ISLANDS (35),138
+Andaman & Nicobar Islands,State - ODISHA (21),141
+Sikkim,State - TAMIL NADU (33),142
+Madhya Pradesh,State - PUDUCHERRY (34),143
+Goa,State - UTTARAKHAND (05),144
+Madhya Pradesh,State - ARUNACHAL PRADESH (12),146
+Odisha,State - TRIPURA (16),146
+Mizoram,State - TAMIL NADU (33),146
+Karnataka,State - SIKKIM (11),152
+Himachal Pradesh,State - MEGHALAYA (17),152
+Chandigarh,State - ASSAM (18),152
+Rajasthan,State - MANIPUR (14),153
+Sikkim,State - MADHYA PRADESH (23),153
+Nagaland,State - GUJARAT (24),155
+Andaman & Nicobar Islands,State - JHARKHAND (20),156
+Arunachal Pradesh,State - GUJARAT (24),156
+Maharashtra,State - MANIPUR (14),159
+Rajasthan,State - TRIPURA (16),159
+Gujarat,State - MEGHALAYA (17),159
+Meghalaya,State - BIHAR (10),164
+Andaman & Nicobar Islands,State - CHHATTISGARH (22),167
+Arunachal Pradesh,State - MADHYA PRADESH (23),167
+Assam,State - ANDAMAN & NICOBAR ISLANDS (35),168
+Mizoram,State - UTTARAKHAND (05),169
+Himachal Pradesh,State - ARUNACHAL PRADESH (12),170
+Meghalaya,State - JHARKHAND (20),171
+Nagaland,State - ANDHRA PRADESH (28),171
+West Bengal,State - MANIPUR (14),172
+NCT of Delhi,State - TRIPURA (16),172
+Tripura,State - JHARKHAND (20),172
+Rajasthan,State - ANDAMAN & NICOBAR ISLANDS (35),172
+Andhra Pradesh,State - ARUNACHAL PRADESH (12),173
+Arunachal Pradesh,State - TRIPURA (16),174
+Manipur,State - BIHAR (10),179
+Maharashtra,State - TRIPURA (16),179
+Meghalaya,State - ODISHA (21),179
+Lakshadweep,State - KARNATAKA (29),179
+Gujarat,State - ANDAMAN & NICOBAR ISLANDS (35),179
+Dadra & Nagar Haveli,State - BIHAR (10),182
+Sikkim,State - HARYANA (06),185
+Assam,State - PUDUCHERRY (34),185
+Meghalaya,State - SIKKIM (11),187
+Goa,State - JHARKHAND (20),189
+Manipur,State - ODISHA (21),189
+Goa,State - ANDAMAN & NICOBAR ISLANDS (35),189
+Tamil Nadu,State - ARUNACHAL PRADESH (12),192
+Tamil Nadu,State - TRIPURA (16),192
+Sikkim,State - PUNJAB (03),193
+Nagaland,State - MADHYA PRADESH (23),194
+Punjab,State - SIKKIM (11),196
+Chandigarh,State - CHHATTISGARH (22),198
+Chandigarh,State - BIHAR (10),201
+Sikkim,State - BIHAR (10),201
+Tripura,State - ANDHRA PRADESH (28),201
+Manipur,State - GOA (30),202
+Sikkim,State - RAJASTHAN (08),204
+Madhya Pradesh,State - NAGALAND (13),204
+Maharashtra,State - SIKKIM (11),206
+Lakshadweep,State - MAHARASHTRA (27),206
+Himachal Pradesh,State - GOA (30),207
+Punjab,State - ANDAMAN & NICOBAR ISLANDS (35),209
+Andaman & Nicobar Islands,State - UTTAR PRADESH (09),210
+Chandigarh,State - ODISHA (21),211
+Haryana,State - DADRA & NAGAR HAVELI (26),213
+Puducherry,State - GUJARAT (24),214
+Haryana,State - ANDAMAN & NICOBAR ISLANDS (35),214
+Jammu & Kashmir,State - ARUNACHAL PRADESH (12),220
+Jammu & Kashmir,State - NAGALAND (13),220
+Mizoram,State - ARUNACHAL PRADESH (12),225
+Arunachal Pradesh,State - BIHAR (10),226
+Haryana,State - SIKKIM (11),227
+Meghalaya,State - KERALA (32),231
+Punjab,State - ARUNACHAL PRADESH (12),232
+Punjab,State - DADRA & NAGAR HAVELI (26),232
+Tamil Nadu,State - NAGALAND (13),235
+Tamil Nadu,State - MEGHALAYA (17),236
+Sikkim,State - ASSAM (18),237
+Arunachal Pradesh,State - PUNJAB (03),238
+Haryana,State - ARUNACHAL PRADESH (12),238
+Himachal Pradesh,State - NAGALAND (13),239
+Chhattisgarh,State - ASSAM (18),239
+Arunachal Pradesh,State - HARYANA (06),240
+Uttarakhand,State - ARUNACHAL PRADESH (12),240
+Goa,State - WEST BENGAL (19),242
+Nagaland,State - MIZORAM (15),245
+Mizoram,State - PUNJAB (03),246
+Puducherry,State - NCT OF DELHI (07),246
+Uttarakhand,State - SIKKIM (11),246
+Andaman & Nicobar Islands,State - GUJARAT (24),246
+Goa,State - PUNJAB (03),248
+NCT of Delhi,State - ARUNACHAL PRADESH (12),248
+Tripura,State - ODISHA (21),248
+Arunachal Pradesh,State - RAJASTHAN (08),250
+Chandigarh,State - KERALA (32),250
+Tripura,State - MADHYA PRADESH (23),252
+Himachal Pradesh,State - KERALA (32),252
+Tripura,State - TAMIL NADU (33),252
+Rajasthan,State - SIKKIM (11),255
+Tripura,State - PUNJAB (03),256
+Uttar Pradesh,State - MANIPUR (14),258
+Chhattisgarh,State - DADRA & NAGAR HAVELI (26),259
+Tamil Nadu,State - DAMAN & DIU (25),262
+Mizoram,State - NAGALAND (13),263
+Andaman & Nicobar Islands,State - GOA (30),263
+Andhra Pradesh,State - NAGALAND (13),264
+Meghalaya,State - MADHYA PRADESH (23),273
+Chhattisgarh,State - DAMAN & DIU (25),273
+Nagaland,State - HARYANA (06),275
+Sikkim,State - UTTAR PRADESH (09),275
+Andhra Pradesh,State - DAMAN & DIU (25),281
+Maharashtra,State - ARUNACHAL PRADESH (12),286
+Tamil Nadu,State - LAKSHADWEEP (31),286
+Goa,State - ODISHA (21),288
+Tripura,State - UTTAR PRADESH (09),289
+Haryana,State - MEGHALAYA (17),291
+West Bengal,State - MIZORAM (15),292
+Tripura,State - UTTARAKHAND (05),295
+Himachal Pradesh,State - ASSAM (18),295
+Uttar Pradesh,State - MIZORAM (15),296
+Meghalaya,State - ANDHRA PRADESH (28),296
+Arunachal Pradesh,State - ODISHA (21),300
+Nagaland,State - TAMIL NADU (33),300
+Mizoram,State - RAJASTHAN (08),304
+Andhra Pradesh,State - MEGHALAYA (17),304
+Meghalaya,State - HARYANA (06),305
+Arunachal Pradesh,State - TAMIL NADU (33),306
+Haryana,State - NAGALAND (13),307
+Nagaland,State - ODISHA (21),307
+Nagaland,State - BIHAR (10),311
+Meghalaya,State - PUNJAB (03),313
+Jharkhand,State - MEGHALAYA (17),313
+Lakshadweep,State - UTTAR PRADESH (09),316
+Himachal Pradesh,State - SIKKIM (11),317
+Punjab,State - NAGALAND (13),318
+Uttarakhand,State - DAMAN & DIU (25),318
+Madhya Pradesh,State - MEGHALAYA (17),319
+NCT of Delhi,State - ANDAMAN & NICOBAR ISLANDS (35),323
+Manipur,State - TRIPURA (16),324
+NCT of Delhi,State - SIKKIM (11),329
+Odisha,State - MEGHALAYA (17),331
+NCT of Delhi,State - DAMAN & DIU (25),335
+Andhra Pradesh,State - SIKKIM (11),336
+Mizoram,State - MANIPUR (14),336
+Karnataka,State - ANDAMAN & NICOBAR ISLANDS (35),336
+Jammu & Kashmir,State - MEGHALAYA (17),344
+Mizoram,State - MAHARASHTRA (27),344
+Chandigarh,State - JAMMU & KASHMIR (01),346
+Bihar,State - PUDUCHERRY (34),347
+Tripura,State - ARUNACHAL PRADESH (12),349
+Nagaland,State - TRIPURA (16),349
+Goa,State - RAJASTHAN (08),353
+Nagaland,State - PUNJAB (03),356
+Nagaland,State - UTTARAKHAND (05),358
+Sikkim,State - UTTARAKHAND (05),360
+Sikkim,State - MAHARASHTRA (27),360
+Mizoram,State - KARNATAKA (29),360
+Karnataka,State - MEGHALAYA (17),364
+Mizoram,State - WEST BENGAL (19),367
+Arunachal Pradesh,State - KERALA (32),369
+Himachal Pradesh,State - ODISHA (21),372
+Manipur,State - GUJARAT (24),376
+Himachal Pradesh,State - TAMIL NADU (33),377
+Chhattisgarh,State - ANDAMAN & NICOBAR ISLANDS (35),377
+Meghalaya,State - UTTARAKHAND (05),382
+Kerala,State - CHANDIGARH (04),385
+Madhya Pradesh,State - SIKKIM (11),389
+Nagaland,State - RAJASTHAN (08),390
+Manipur,State - KERALA (32),390
+Meghalaya,State - GUJARAT (24),392
+Goa,State - HARYANA (06),396
+Tripura,State - RAJASTHAN (08),398
+Maharashtra,State - NAGALAND (13),398
+Karnataka,State - DAMAN & DIU (25),400
+Meghalaya,State - TAMIL NADU (33),401
+Tripura,State - GUJARAT (24),402
+Tamil Nadu,State - DADRA & NAGAR HAVELI (26),407
+Andaman & Nicobar Islands,State - NCT OF DELHI (07),408
+Chandigarh,State - MADHYA PRADESH (23),409
+Manipur,State - RAJASTHAN (08),410
+Arunachal Pradesh,State - SIKKIM (11),410
+Karnataka,State - NAGALAND (13),417
+Jammu & Kashmir,State - GOA (30),418
+Manipur,State - SIKKIM (11),419
+Punjab,State - MEGHALAYA (17),425
+Manipur,State - MADHYA PRADESH (23),431
+NCT of Delhi,State - MANIPUR (14),436
+Lakshadweep,State - BIHAR (10),438
+Goa,State - MADHYA PRADESH (23),438
+Uttarakhand,State - GOA (30),442
+Chandigarh,State - WEST BENGAL (19),443
+Manipur,State - CHANDIGARH (04),445
+Goa,State - UTTAR PRADESH (09),449
+Manipur,State - HARYANA (06),450
+Meghalaya,State - MANIPUR (14),450
+Nagaland,State - UTTAR PRADESH (09),452
+Kerala,State - HIMACHAL PRADESH (02),454
+NCT of Delhi,State - DADRA & NAGAR HAVELI (26),455
+Meghalaya,State - TRIPURA (16),458
+Tamil Nadu,State - HIMACHAL PRADESH (02),460
+Uttarakhand,State - DADRA & NAGAR HAVELI (26),463
+NCT of Delhi,State - PUDUCHERRY (34),466
+Kerala,State - DAMAN & DIU (25),468
+Odisha,State - SIKKIM (11),470
+Meghalaya,State - ARUNACHAL PRADESH (12),471
+Mizoram,State - NCT OF DELHI (07),476
+West Bengal,State - PUDUCHERRY (34),480
+Maharashtra,State - LAKSHADWEEP (31),481
+Odisha,State - NAGALAND (13),490
+Kerala,State - MEGHALAYA (17),490
+Maharashtra,State - MEGHALAYA (17),492
+Uttarakhand,State - ODISHA (21),494
+Uttarakhand,State - KERALA (32),506
+Arunachal Pradesh,State - UTTAR PRADESH (09),508
+Uttar Pradesh,State - PUDUCHERRY (34),511
+Odisha,State - ANDAMAN & NICOBAR ISLANDS (35),515
+Jharkhand,State - MIZORAM (15),520
+Punjab,State - GOA (30),522
+Rajasthan,State - PUDUCHERRY (34),522
+Jammu & Kashmir,State - ASSAM (18),523
+Arunachal Pradesh,State - MAHARASHTRA (27),530
+Andhra Pradesh,State - DADRA & NAGAR HAVELI (26),532
+Nagaland,State - KERALA (32),532
+Manipur,State - PUNJAB (03),538
+Kerala,State - ARUNACHAL PRADESH (12),558
+Kerala,State - NAGALAND (13),566
+Chandigarh,State - TAMIL NADU (33),569
+Sikkim,State - NCT OF DELHI (07),576
+Goa,State - NCT OF DELHI (07),581
+Sikkim,State - HIMACHAL PRADESH (02),584
+Bihar,State - MIZORAM (15),601
+Uttarakhand,State - TAMIL NADU (33),603
+Uttarakhand,State - ASSAM (18),605
+Karnataka,State - ASSAM (18),607
+Uttarakhand,State - BIHAR (10),609
+Uttarakhand,State - NAGALAND (13),620
+Arunachal Pradesh,State - NAGALAND (13),620
+Kerala,State - BIHAR (10),621
+Meghalaya,State - UTTAR PRADESH (09),628
+Jharkhand,State - ARUNACHAL PRADESH (12),628
+Daman & Diu,State - DADRA & NAGAR HAVELI (26),629
+Manipur,State - UTTARAKHAND (05),631
+Jharkhand,State - NAGALAND (13),636
+Himachal Pradesh,State - ANDHRA PRADESH (28),644
+Karnataka,State - DADRA & NAGAR HAVELI (26),647
+Bihar,State - ANDAMAN & NICOBAR ISLANDS (35),651
+Haryana,State - GOA (30),654
+Gujarat,State - JAMMU & KASHMIR (01),658
+Puducherry,State - MAHARASHTRA (27),658
+Arunachal Pradesh,State - MEGHALAYA (17),661
+Karnataka,State - JAMMU & KASHMIR (01),665
+Chandigarh,State - ANDHRA PRADESH (28),666
+Kerala,State - JAMMU & KASHMIR (01),674
+Tamil Nadu,State - ASSAM (18),683
+Jammu & Kashmir,State - SIKKIM (11),687
+Arunachal Pradesh,State - HIMACHAL PRADESH (02),695
+Uttarakhand,State - MEGHALAYA (17),695
+Nagaland,State - MANIPUR (14),703
+Andaman & Nicobar Islands,State - KARNATAKA (29),706
+Rajasthan,State - MEGHALAYA (17),707
+Himachal Pradesh,State - JHARKHAND (20),707
+Tamil Nadu,State - JAMMU & KASHMIR (01),711
+Kerala,State - ASSAM (18),717
+Chhattisgarh,State - CHANDIGARH (04),735
+Rajasthan,State - ARUNACHAL PRADESH (12),736
+Chhattisgarh,State - GOA (30),749
+Odisha,State - ARUNACHAL PRADESH (12),762
+Uttarakhand,State - JHARKHAND (20),762
+Gujarat,State - PUDUCHERRY (34),770
+Nagaland,State - ARUNACHAL PRADESH (12),779
+Meghalaya,State - MIZORAM (15),781
+Manipur,State - UTTAR PRADESH (09),790
+Kerala,State - DADRA & NAGAR HAVELI (26),800
+Tamil Nadu,State - BIHAR (10),802
+Jammu & Kashmir,State - JHARKHAND (20),804
+Gujarat,State - ASSAM (18),805
+Sikkim,State - KARNATAKA (29),806
+Andaman & Nicobar Islands,State - WEST BENGAL (19),811
+Tripura,State - HARYANA (06),819
+Odisha,State - CHANDIGARH (04),828
+Madhya Pradesh,State - ASSAM (18),842
+Daman & Diu,State - MAHARASHTRA (27),855
+Maharashtra,State - ANDAMAN & NICOBAR ISLANDS (35),855
+Nagaland,State - MAHARASHTRA (27),856
+Arunachal Pradesh,State - UTTARAKHAND (05),875
+Tripura,State - NCT OF DELHI (07),888
+Manipur,State - ARUNACHAL PRADESH (12),888
+Himachal Pradesh,State - WEST BENGAL (19),897
+Rajasthan,State - NAGALAND (13),909
+Manipur,State - TAMIL NADU (33),913
+Manipur,State - ANDHRA PRADESH (28),919
+Bihar,State - MANIPUR (14),927
+Arunachal Pradesh,State - NCT OF DELHI (07),937
+Tripura,State - MEGHALAYA (17),940
+Tripura,State - NAGALAND (13),942
+Himachal Pradesh,State - CHHATTISGARH (22),942
+Karnataka,State - HIMACHAL PRADESH (02),945
+Meghalaya,State - RAJASTHAN (08),948
+Andhra Pradesh,State - CHANDIGARH (04),949
+Meghalaya,State - NAGALAND (13),951
+Uttar Pradesh,State - TRIPURA (16),954
+Nagaland,State - KARNATAKA (29),961
+Chandigarh,State - GUJARAT (24),967
+Goa,State - GUJARAT (24),973
+Odisha,State - PUDUCHERRY (34),999
+Goa,State - TAMIL NADU (33),1002
+Tripura,State - MAHARASHTRA (27),1007
+Maharashtra,State - PUDUCHERRY (34),1024
+Andhra Pradesh,State - BIHAR (10),1028
+Karnataka,State - CHANDIGARH (04),1046
+Odisha,State - JAMMU & KASHMIR (01),1049
+Tamil Nadu,State - UTTARAKHAND (05),1050
+Punjab,State - ASSAM (18),1052
+Himachal Pradesh,State - BIHAR (10),1061
+Nagaland,State - MEGHALAYA (17),1061
+Haryana,State - ASSAM (18),1069
+Gujarat,State - HIMACHAL PRADESH (02),1070
+Gujarat,State - CHANDIGARH (04),1074
+Uttarakhand,State - ANDHRA PRADESH (28),1083
+Kerala,State - UTTARAKHAND (05),1085
+Jharkhand,State - SIKKIM (11),1094
+Jammu & Kashmir,State - ODISHA (21),1101
+Tamil Nadu,State - CHANDIGARH (04),1113
+Uttar Pradesh,State - SIKKIM (11),1115
+Mizoram,State - MEGHALAYA (17),1145
+Meghalaya,State - MAHARASHTRA (27),1149
+Assam,State - JAMMU & KASHMIR (01),1154
+Chandigarh,State - RAJASTHAN (08),1161
+Dadra & Nagar Haveli,State - MAHARASHTRA (27),1165
+Andhra Pradesh,State - JAMMU & KASHMIR (01),1168
+Karnataka,State - BIHAR (10),1193
+Assam,State - GOA (30),1194
+Uttar Pradesh,State - ANDAMAN & NICOBAR ISLANDS (35),1220
+Arunachal Pradesh,State - WEST BENGAL (19),1226
+Chhattisgarh,State - BIHAR (10),1229
+Nagaland,State - NCT OF DELHI (07),1240
+Uttarakhand,State - CHHATTISGARH (22),1275
+Haryana,State - KERALA (32),1282
+Assam,State - HIMACHAL PRADESH (02),1293
+Karnataka,State - UTTARAKHAND (05),1301
+Manipur,State - WEST BENGAL (19),1306
+Lakshadweep,State - KERALA (32),1307
+Andaman & Nicobar Islands,State - KERALA (32),1317
+Jharkhand,State - JAMMU & KASHMIR (01),1324
+Assam,State - DADRA & NAGAR HAVELI (26),1339
+Kerala,State - JHARKHAND (20),1341
+Andhra Pradesh,State - HIMACHAL PRADESH (02),1344
+Karnataka,State - JHARKHAND (20),1361
+Assam,State - CHANDIGARH (04),1364
+Chhattisgarh,State - TAMIL NADU (33),1386
+Meghalaya,State - NCT OF DELHI (07),1400
+Andhra Pradesh,State - ASSAM (18),1402
+Kerala,State - ANDAMAN & NICOBAR ISLANDS (35),1414
+Jammu & Kashmir,State - KERALA (32),1423
+Chhattisgarh,State - KERALA (32),1431
+Mizoram,State - ASSAM (18),1469
+Meghalaya,State - KARNATAKA (29),1474
+Punjab,State - KERALA (32),1495
+Assam,State - CHHATTISGARH (22),1502
+West Bengal,State - NAGALAND (13),1503
+Jharkhand,State - ANDAMAN & NICOBAR ISLANDS (35),1506
+Tripura,State - KARNATAKA (29),1526
+Assam,State - DAMAN & DIU (25),1529
+Maharashtra,State - ASSAM (18),1558
+Goa,State - ANDHRA PRADESH (28),1560
+Chandigarh,State - UTTARAKHAND (05),1561
+Andaman & Nicobar Islands,State - MAHARASHTRA (27),1567
+Odisha,State - ASSAM (18),1573
+Puducherry,State - KARNATAKA (29),1576
+Karnataka,State - CHHATTISGARH (22),1579
+Haryana,State - JHARKHAND (20),1588
+Jammu & Kashmir,State - BIHAR (10),1599
+Assam,State - SIKKIM (11),1604
+Goa,State - KERALA (32),1618
+Nagaland,State - WEST BENGAL (19),1625
+Tamil Nadu,State - JHARKHAND (20),1634
+Chandigarh,State - KARNATAKA (29),1638
+Uttar Pradesh,State - MEGHALAYA (17),1652
+Karnataka,State - PUDUCHERRY (34),1667
+Uttarakhand,State - WEST BENGAL (19),1669
+Jharkhand,State - CHANDIGARH (04),1671
+Mizoram,State - TRIPURA (16),1672
+Arunachal Pradesh,State - KARNATAKA (29),1710
+NCT of Delhi,State - ASSAM (18),1711
+Andaman & Nicobar Islands,State - ANDHRA PRADESH (28),1714
+Uttarakhand,State - JAMMU & KASHMIR (01),1731
+NCT of Delhi,State - GOA (30),1765
+Jharkhand,State - ASSAM (18),1770
+Jammu & Kashmir,State - ANDHRA PRADESH (28),1785
+West Bengal,State - MEGHALAYA (17),1816
+Madhya Pradesh,State - GOA (30),1833
+Haryana,State - ODISHA (21),1841
+Jharkhand,State - DADRA & NAGAR HAVELI (26),1859
+Chhattisgarh,State - UTTARAKHAND (05),1870
+Uttar Pradesh,State - NAGALAND (13),1918
+Gujarat,State - GOA (30),1943
+West Bengal,State - TRIPURA (16),1964
+Himachal Pradesh,State - GUJARAT (24),1967
+Madhya Pradesh,State - CHANDIGARH (04),2009
+Chandigarh,State - MAHARASHTRA (27),2051
+Manipur,State - MAHARASHTRA (27),2063
+Jammu & Kashmir,State - WEST BENGAL (19),2096
+Assam,State - JHARKHAND (20),2128
+Tamil Nadu,State - CHHATTISGARH (22),2160
+Kerala,State - ODISHA (21),2169
+Gujarat,State - JHARKHAND (20),2196
+Andhra Pradesh,State - UTTARAKHAND (05),2197
+Himachal Pradesh,State - MADHYA PRADESH (23),2197
+Jharkhand,State - KERALA (32),2197
+Jammu & Kashmir,State - TAMIL NADU (33),2207
+Odisha,State - UTTARAKHAND (05),2246
+Maharashtra,State - JAMMU & KASHMIR (01),2294
+Odisha,State - HIMACHAL PRADESH (02),2295
+Haryana,State - BIHAR (10),2351
+Tamil Nadu,State - GOA (30),2383
+West Bengal,State - DADRA & NAGAR HAVELI (26),2386
+Assam,State - MANIPUR (14),2412
+Madhya Pradesh,State - BIHAR (10),2479
+Rajasthan,State - BIHAR (10),2503
+Himachal Pradesh,State - JAMMU & KASHMIR (01),2505
+Punjab,State - ODISHA (21),2523
+Gujarat,State - BIHAR (10),2559
+Assam,State - ODISHA (21),2560
+Karnataka,State - PUNJAB (03),2626
+Meghalaya,State - WEST BENGAL (19),2630
+NCT of Delhi,State - JAMMU & KASHMIR (01),2646
+Odisha,State - BIHAR (10),2668
+Uttar Pradesh,State - ARUNACHAL PRADESH (12),2705
+Maharashtra,State - CHANDIGARH (04),2726
+Kerala,State - WEST BENGAL (19),2756
+Jammu & Kashmir,State - GUJARAT (24),2771
+Assam,State - MADHYA PRADESH (23),2787
+Jharkhand,State - GOA (30),2812
+Puducherry,State - ANDHRA PRADESH (28),2847
+Rajasthan,State - JHARKHAND (20),2862
+Haryana,State - JAMMU & KASHMIR (01),2868
+Tamil Nadu,State - PUNJAB (03),2904
+Punjab,State - TAMIL NADU (33),2918
+Haryana,State - TAMIL NADU (33),2960
+Punjab,State - ANDHRA PRADESH (28),2981
+Kerala,State - CHHATTISGARH (22),2985
+Rajasthan,State - GOA (30),3012
+Himachal Pradesh,State - KARNATAKA (29),3013
+Andaman & Nicobar Islands,State - TAMIL NADU (33),3015
+Kerala,State - PUNJAB (03),3019
+Jammu & Kashmir,State - CHANDIGARH (04),3026
+West Bengal,State - ARUNACHAL PRADESH (12),3030
+Haryana,State - ANDHRA PRADESH (28),3037
+Jharkhand,State - DAMAN & DIU (25),3072
+Andhra Pradesh,State - GOA (30),3088
+Chhattisgarh,State - WEST BENGAL (19),3131
+Assam,State - UTTARAKHAND (05),3141
+Gujarat,State - UTTARAKHAND (05),3161
+Karnataka,State - WEST BENGAL (19),3192
+Chandigarh,State - UTTAR PRADESH (09),3203
+Chandigarh,State - CHANDIGARH (04),3248
+Maharashtra,State - HIMACHAL PRADESH (02),3281
+Kerala,State - LAKSHADWEEP (31),3317
+Rajasthan,State - DAMAN & DIU (25),3319
+Odisha,State - GOA (30),3341
+Punjab,State - JHARKHAND (20),3372
+West Bengal,State - CHANDIGARH (04),3396
+Rajasthan,State - JAMMU & KASHMIR (01),3432
+Andhra Pradesh,State - JHARKHAND (20),3484
+Tamil Nadu,State - WEST BENGAL (19),3504
+Karnataka,State - ODISHA (21),3586
+Uttarakhand,State - KARNATAKA (29),3586
+Jammu & Kashmir,State - MADHYA PRADESH (23),3638
+Odisha,State - DADRA & NAGAR HAVELI (26),3669
+West Bengal,State - HIMACHAL PRADESH (02),3692
+Chandigarh,State - NCT OF DELHI (07),3711
+Manipur,State - MEGHALAYA (17),3730
+West Bengal,State - GOA (30),3749
+Manipur,State - KARNATAKA (29),3807
+Karnataka,State - MADHYA PRADESH (23),3833
+Kerala,State - HARYANA (06),3845
+Tripura,State - MIZORAM (15),3869
+Himachal Pradesh,State - RAJASTHAN (08),3879
+Haryana,State - WEST BENGAL (19),3888
+Chhattisgarh,State - HIMACHAL PRADESH (02),3908
+Jammu & Kashmir,State - UTTARAKHAND (05),3938
+Madhya Pradesh,State - DADRA & NAGAR HAVELI (26),4007
+Odisha,State - DAMAN & DIU (25),4012
+Kerala,State - GOA (30),4054
+Tamil Nadu,State - ODISHA (21),4083
+Manipur,State - NCT OF DELHI (07),4171
+Tamil Nadu,State - MADHYA PRADESH (23),4181
+Assam,State - ANDHRA PRADESH (28),4184
+Andhra Pradesh,State - ANDAMAN & NICOBAR ISLANDS (35),4196
+Jammu & Kashmir,State - CHHATTISGARH (22),4209
+Madhya Pradesh,State - KERALA (32),4226
+Rajasthan,State - ODISHA (21),4235
+Madhya Pradesh,State - HIMACHAL PRADESH (02),4236
+West Bengal,State - DAMAN & DIU (25),4267
+Dadra & Nagar Haveli,State - GUJARAT (24),4307
+Bihar,State - MEGHALAYA (17),4437
+Rajasthan,State - CHANDIGARH (04),4456
+Madhya Pradesh,State - JAMMU & KASHMIR (01),4554
+Andhra Pradesh,State - PUNJAB (03),4644
+Tamil Nadu,State - ANDAMAN & NICOBAR ISLANDS (35),4765
+West Bengal,State - JAMMU & KASHMIR (01),4766
+Madhya Pradesh,State - JHARKHAND (20),4770
+Rajasthan,State - DADRA & NAGAR HAVELI (26),4776
+Jharkhand,State - TAMIL NADU (33),4792
+Kerala,State - RAJASTHAN (08),4814
+Jammu & Kashmir,State - KARNATAKA (29),4835
+Tamil Nadu,State - HARYANA (06),4863
+Chhattisgarh,State - KARNATAKA (29),4883
+Punjab,State - BIHAR (10),4892
+NCT of Delhi,State - JHARKHAND (20),4896
+Chhattisgarh,State - RAJASTHAN (08),4911
+Daman & Diu,State - GUJARAT (24),4917
+Manipur,State - MIZORAM (15),4925
+Rajasthan,State - HIMACHAL PRADESH (02),5001
+Sikkim,State - WEST BENGAL (19),5035
+Chhattisgarh,State - PUNJAB (03),5118
+Gujarat,State - WEST BENGAL (19),5123
+Manipur,State - ASSAM (18),5138
+Assam,State - TAMIL NADU (33),5152
+Tamil Nadu,State - UTTAR PRADESH (09),5159
+Madhya Pradesh,State - ODISHA (21),5225
+Odisha,State - PUNJAB (03),5284
+Uttarakhand,State - MADHYA PRADESH (23),5284
+Tamil Nadu,State - RAJASTHAN (08),5332
+Assam,State - BIHAR (10),5335
+NCT of Delhi,State - ODISHA (21),5385
+Rajasthan,State - KERALA (32),5433
+Bihar,State - SIKKIM (11),5470
+NCT of Delhi,State - CHHATTISGARH (22),5479
+Punjab,State - WEST BENGAL (19),5510
+Tripura,State - WEST BENGAL (19),5569
+Gujarat,State - PUNJAB (03),5593
+Madhya Pradesh,State - TAMIL NADU (33),5596
+Madhya Pradesh,State - WEST BENGAL (19),5762
+Gujarat,State - KERALA (32),5775
+Bihar,State - GOA (30),5781
+Gujarat,State - CHHATTISGARH (22),5785
+Uttarakhand,State - GUJARAT (24),5799
+Punjab,State - CHHATTISGARH (22),5894
+Haryana,State - CHHATTISGARH (22),5924
+Assam,State - PUNJAB (03),5946
+Chhattisgarh,State - NCT OF DELHI (07),5993
+Karnataka,State - UTTAR PRADESH (09),6079
+Assam,State - KERALA (32),6102
+Karnataka,State - HARYANA (06),6156
+Maharashtra,State - JHARKHAND (20),6177
+Himachal Pradesh,State - MAHARASHTRA (27),6211
+Jammu & Kashmir,State - RAJASTHAN (08),6251
+Andhra Pradesh,State - WEST BENGAL (19),6275
+Chhattisgarh,State - JAMMU & KASHMIR (01),6294
+Chandigarh,State - HIMACHAL PRADESH (02),6431
+Odisha,State - RAJASTHAN (08),6491
+Assam,State - RAJASTHAN (08),6591
+Jharkhand,State - ANDHRA PRADESH (28),6683
+Jharkhand,State - UTTARAKHAND (05),6684
+NCT of Delhi,State - TAMIL NADU (33),6754
+Andhra Pradesh,State - HARYANA (06),6802
+Manipur,State - NAGALAND (13),6809
+Himachal Pradesh,State - UTTAR PRADESH (09),6941
+Madhya Pradesh,State - DAMAN & DIU (25),6952
+Bihar,State - JAMMU & KASHMIR (01),6970
+Maharashtra,State - UTTARAKHAND (05),7011
+Gujarat,State - HARYANA (06),7016
+Bihar,State - KERALA (32),7066
+Rajasthan,State - ASSAM (18),7101
+Karnataka,State - RAJASTHAN (08),7215
+Madhya Pradesh,State - UTTARAKHAND (05),7227
+Kerala,State - UTTAR PRADESH (09),7259
+Kerala,State - MADHYA PRADESH (23),7330
+Punjab,State - KARNATAKA (29),7353
+Jammu & Kashmir,State - HIMACHAL PRADESH (02),7389
+Rajasthan,State - CHHATTISGARH (22),7391
+Andhra Pradesh,State - RAJASTHAN (08),7486
+Bihar,State - ARUNACHAL PRADESH (12),7520
+Jammu & Kashmir,State - HARYANA (06),7626
+Bihar,State - NAGALAND (13),7646
+Maharashtra,State - BIHAR (10),7754
+Puducherry,State - KERALA (32),7836
+Assam,State - MIZORAM (15),7908
+Uttar Pradesh,State - KERALA (32),7912
+Jharkhand,State - RAJASTHAN (08),7957
+Jharkhand,State - HIMACHAL PRADESH (02),7959
+Uttar Pradesh,State - ASSAM (18),8008
+Himachal Pradesh,State - UTTARAKHAND (05),8089
+Karnataka,State - NCT OF DELHI (07),8168
+Chhattisgarh,State - HARYANA (06),8310
+Gujarat,State - TAMIL NADU (33),8336
+Assam,State - GUJARAT (24),8371
+Andhra Pradesh,State - UTTAR PRADESH (09),8470
+Haryana,State - KARNATAKA (29),8657
+Assam,State - HARYANA (06),8688
+Kerala,State - PUDUCHERRY (34),8737
+Chhattisgarh,State - GUJARAT (24),8786
+NCT of Delhi,State - WEST BENGAL (19),8792
+NCT of Delhi,State - CHANDIGARH (04),8892
+Daman & Diu,State - DAMAN & DIU (25),8902
+Rajasthan,State - UTTARAKHAND (05),8970
+Madhya Pradesh,State - ANDHRA PRADESH (28),8983
+Andhra Pradesh,State - MADHYA PRADESH (23),9052
+Bihar,State - TRIPURA (16),9065
+Haryana,State - MADHYA PRADESH (23),9071
+Tripura,State - ASSAM (18),9110
+West Bengal,State - UTTARAKHAND (05),9111
+Odisha,State - KERALA (32),9117
+West Bengal,State - ANDAMAN & NICOBAR ISLANDS (35),9261
+NCT of Delhi,State - KERALA (32),9304
+Maharashtra,State - ODISHA (21),9561
+Uttarakhand,State - RAJASTHAN (08),9637
+Arunachal Pradesh,State - ASSAM (18),9715
+NCT of Delhi,State - ANDHRA PRADESH (28),9727
+Odisha,State - HARYANA (06),9829
+Gujarat,State - NCT OF DELHI (07),9829
+Maharashtra,State - DAMAN & DIU (25),9845
+Gujarat,State - ANDHRA PRADESH (28),10171
+Lakshadweep,State - LAKSHADWEEP (31),10231
+NCT of Delhi,State - HIMACHAL PRADESH (02),10238
+Nagaland,State - ASSAM (18),10427
+Jharkhand,State - PUNJAB (03),10429
+Assam,State - TRIPURA (16),10451
+Punjab,State - MADHYA PRADESH (23),10519
+Uttar Pradesh,State - JAMMU & KASHMIR (01),10639
+Jammu & Kashmir,State - MAHARASHTRA (27),10712
+Jammu & Kashmir,State - UTTAR PRADESH (09),10726
+Uttarakhand,State - HIMACHAL PRADESH (02),10934
+Goa,State - KARNATAKA (29),11308
+Andhra Pradesh,State - KERALA (32),11486
+Andhra Pradesh,State - NCT OF DELHI (07),11517
+Gujarat,State - DAMAN & DIU (25),11663
+Gujarat,State - UTTAR PRADESH (09),11849
+Uttarakhand,State - CHANDIGARH (04),12313
+Andhra Pradesh,State - PUDUCHERRY (34),12432
+Punjab,State - GUJARAT (24),12464
+Jharkhand,State - TRIPURA (16),12619
+Tamil Nadu,State - GUJARAT (24),12820
+Uttar Pradesh,State - GOA (30),12897
+Odisha,State - MADHYA PRADESH (23),12963
+Jharkhand,State - HARYANA (06),13142
+Punjab,State - UTTARAKHAND (05),13470
+Punjab,State - JAMMU & KASHMIR (01),13476
+Meghalaya,State - ASSAM (18),13528
+Andhra Pradesh,State - CHHATTISGARH (22),13910
+Maharashtra,State - WEST BENGAL (19),14002
+Karnataka,State - GUJARAT (24),14062
+Chhattisgarh,State - JHARKHAND (20),14151
+Maharashtra,State - PUNJAB (03),14188
+NCT of Delhi,State - MADHYA PRADESH (23),14266
+Assam,State - UTTAR PRADESH (09),14506
+Chhattisgarh,State - ANDHRA PRADESH (28),14517
+Assam,State - NCT OF DELHI (07),14627
+Kerala,State - GUJARAT (24),14670
+West Bengal,State - TAMIL NADU (33),14709
+Haryana,State - UTTARAKHAND (05),14798
+Gujarat,State - DADRA & NAGAR HAVELI (26),14812
+Total,State - LAKSHADWEEP (31),14854
+Uttar Pradesh,State - ODISHA (21),14897
+Rajasthan,State - WEST BENGAL (19),15004
+Madhya Pradesh,State - PUNJAB (03),15038
+Odisha,State - TAMIL NADU (33),15085
+Jharkhand,State - MADHYA PRADESH (23),15096
+Madhya Pradesh,State - KARNATAKA (29),15141
+Haryana,State - GUJARAT (24),15185
+Haryana,State - HIMACHAL PRADESH (02),15188
+Tamil Nadu,State - NCT OF DELHI (07),15230
+NCT of Delhi,State - BIHAR (10),15280
+Jammu & Kashmir,State - NCT OF DELHI (07),15712
+NCT of Delhi,State - GUJARAT (24),15732
+Maharashtra,State - DADRA & NAGAR HAVELI (26),15815
+West Bengal,State - SIKKIM (11),15963
+Bihar,State - DADRA & NAGAR HAVELI (26),15989
+Uttar Pradesh,State - TAMIL NADU (33),16358
+Jharkhand,State - KARNATAKA (29),16368
+Dadra & Nagar Haveli,State - DADRA & NAGAR HAVELI (26),16926
+Odisha,State - UTTAR PRADESH (09),17023
+Kerala,State - ANDHRA PRADESH (28),17071
+NCT of Delhi,State - PUNJAB (03),17412
+Bihar,State - TAMIL NADU (33),17779
+Gujarat,State - ODISHA (21),18781
+Assam,State - KARNATAKA (29),19083
+West Bengal,State - CHHATTISGARH (22),19154
+West Bengal,State - PUNJAB (03),19389
+Maharashtra,State - HARYANA (06),19498
+Uttarakhand,State - MAHARASHTRA (27),19814
+Gujarat,State - KARNATAKA (29),19944
+Goa,State - MAHARASHTRA (27),19979
+West Bengal,State - MADHYA PRADESH (23),20002
+Assam,State - MAHARASHTRA (27),20192
+Andhra Pradesh,State - GUJARAT (24),21052
+Kerala,State - NCT OF DELHI (07),21439
+Assam,State - MEGHALAYA (17),21490
+Odisha,State - NCT OF DELHI (07),21583
+Uttar Pradesh,State - DADRA & NAGAR HAVELI (26),21687
+Uttarakhand,State - PUNJAB (03),21789
+Himachal Pradesh,State - NCT OF DELHI (07),22508
+Himachal Pradesh,State - HARYANA (06),22681
+NCT of Delhi,State - KARNATAKA (29),22897
+Uttar Pradesh,State - DAMAN & DIU (25),23355
+Himachal Pradesh,State - CHANDIGARH (04),23692
+West Bengal,State - KERALA (32),23706
+Assam,State - NAGALAND (13),23767
+West Bengal,State - ANDHRA PRADESH (28),23851
+Haryana,State - MAHARASHTRA (27),23917
+Jammu & Kashmir,State - PUNJAB (03),23944
+West Bengal,State - ASSAM (18),24172
+Bihar,State - CHANDIGARH (04),24249
+Bihar,State - DAMAN & DIU (25),24663
+Maharashtra,State - KERALA (32),24822
+Bihar,State - ANDHRA PRADESH (28),25019
+Uttar Pradesh,State - ANDHRA PRADESH (28),25755
+Bihar,State - HIMACHAL PRADESH (02),26779
+Punjab,State - MAHARASHTRA (27),27388
+Maharashtra,State - NCT OF DELHI (07),27801
+NCT of Delhi,State - UTTARAKHAND (05),28554
+Chandigarh,State - HARYANA (06),28986
+Rajasthan,State - ANDHRA PRADESH (28),30514
+Maharashtra,State - GOA (30),30644
+Uttarakhand,State - HARYANA (06),30691
+Chhattisgarh,State - UTTAR PRADESH (09),31435
+Rajasthan,State - TAMIL NADU (33),31602
+Haryana,State - CHANDIGARH (04),31690
+Uttar Pradesh,State - JHARKHAND (20),31920
+West Bengal,State - RAJASTHAN (08),33251
+Gujarat,State - MADHYA PRADESH (23),33791
+Jharkhand,State - GUJARAT (24),35774
+Madhya Pradesh,State - HARYANA (06),35833
+Jharkhand,State - NCT OF DELHI (07),37348
+Bihar,State - ASSAM (18),37643
+Maharashtra,State - UTTAR PRADESH (09),37653
+Punjab,State - UTTAR PRADESH (09),37904
+Chhattisgarh,State - ODISHA (21),38256
+Maharashtra,State - RAJASTHAN (08),38553
+Maharashtra,State - TAMIL NADU (33),38598
+NCT of Delhi,State - RAJASTHAN (08),38690
+Andhra Pradesh,State - ODISHA (21),40482
+Maharashtra,State - CHHATTISGARH (22),40782
+Assam,State - ARUNACHAL PRADESH (12),41395
+Bihar,State - UTTARAKHAND (05),42034
+Uttar Pradesh,State - HIMACHAL PRADESH (02),42254
+Jharkhand,State - CHHATTISGARH (22),42262
+Odisha,State - WEST BENGAL (19),43423
+NCT of Delhi,State - MAHARASHTRA (27),43565
+Assam,State - WEST BENGAL (19),43796
+Odisha,State - JHARKHAND (20),44084
+Bihar,State - ODISHA (21),45498
+West Bengal,State - KARNATAKA (29),46601
+Punjab,State - CHANDIGARH (04),47430
+Jharkhand,State - UTTAR PRADESH (09),47892
+Punjab,State - NCT OF DELHI (07),48742
+Punjab,State - HIMACHAL PRADESH (02),48887
+Odisha,State - KARNATAKA (29),49275
+West Bengal,State - HARYANA (06),49421
+Karnataka,State - KERALA (32),50647
+West Bengal,State - ODISHA (21),50770
+West Bengal,State - GUJARAT (24),51430
+Bihar,State - MADHYA PRADESH (23),52280
+Karnataka,State - GOA (30),53091
+Punjab,State - RAJASTHAN (08),54541
+Madhya Pradesh,State - NCT OF DELHI (07),56527
+Jharkhand,State - ODISHA (21),56704
+Chhattisgarh,State - MADHYA PRADESH (23),57514
+Bihar,State - CHHATTISGARH (22),59180
+Bihar,State - KARNATAKA (29),59985
+Sikkim,State - SIKKIM (11),60375
+Uttar Pradesh,State - KARNATAKA (29),60977
+Himachal Pradesh,State - PUNJAB (03),61188
+Uttar Pradesh,State - WEST BENGAL (19),61587
+Jharkhand,State - MAHARASHTRA (27),62040
+Andaman & Nicobar Islands,State - ANDAMAN & NICOBAR ISLANDS (35),62374
+Uttar Pradesh,State - CHHATTISGARH (22),64452
+West Bengal,State - BIHAR (10),66418
+Odisha,State - MAHARASHTRA (27),67971
+Rajasthan,State - PUNJAB (03),68241
+Uttar Pradesh,State - CHANDIGARH (04),68534
+Kerala,State - MAHARASHTRA (27),68815
+West Bengal,State - UTTAR PRADESH (09),69399
+Rajasthan,State - KARNATAKA (29),69573
+Bihar,State - RAJASTHAN (08),70633
+Chandigarh,State - PUNJAB (03),71776
+Tamil Nadu,State - MAHARASHTRA (27),72703
+Haryana,State - UTTAR PRADESH (09),76086
+Gujarat,State - RAJASTHAN (08),76479
+Chhattisgarh,State - MAHARASHTRA (27),76571
+Odisha,State - CHHATTISGARH (22),76901
+West Bengal,State - NCT OF DELHI (07),79681
+Uttar Pradesh,State - BIHAR (10),80400
+Rajasthan,State - UTTAR PRADESH (09),81391
+Odisha,State - ANDHRA PRADESH (28),82622
+Tamil Nadu,State - ANDHRA PRADESH (28),88963
+Total,State - ANDAMAN & NICOBAR ISLANDS (35),89438
+Total,State - SIKKIM (11),91206
+Maharashtra,State - ANDHRA PRADESH (28),92649
+Puducherry,State - TAMIL NADU (33),93828
+Uttarakhand,State - NCT OF DELHI (07),96244
+Tamil Nadu,State - PUDUCHERRY (34),96412
+Rajasthan,State - NCT OF DELHI (07),96574
+Mizoram,State - MIZORAM (15),103357
+Total,State - DAMAN & DIU (25),104620
+Odisha,State - GUJARAT (24),107588
+Andhra Pradesh,State - TAMIL NADU (33),107983
+Total,State - DADRA & NAGAR HAVELI (26),108242
+Madhya Pradesh,State - CHHATTISGARH (22),112813
+Karnataka,State - TAMIL NADU (33),118530
+Total,State - MIZORAM (15),123819
+Tamil Nadu,State - KERALA (32),124483
+Jharkhand,State - BIHAR (10),125305
+Uttarakhand,State - UTTAR PRADESH (09),130268
+Puducherry,State - PUDUCHERRY (34),134354
+Jharkhand,State - WEST BENGAL (19),139398
+Madhya Pradesh,State - GUJARAT (24),142444
+Meghalaya,State - MEGHALAYA (17),145229
+Punjab,State - HARYANA (06),145584
+West Bengal,State - JHARKHAND (20),145939
+Kerala,State - KARNATAKA (29),150037
+Karnataka,State - ANDHRA PRADESH (28),151995
+Maharashtra,State - MADHYA PRADESH (23),158335
+Rajasthan,State - MADHYA PRADESH (23),160310
+Haryana,State - PUNJAB (03),162356
+Andhra Pradesh,State - MAHARASHTRA (27),162755
+Haryana,State - RAJASTHAN (08),165505
+Kerala,State - TAMIL NADU (33),165723
+Bihar,State - PUNJAB (03),171593
+West Bengal,State - MAHARASHTRA (27),175267
+Manipur,State - MANIPUR (14),175329
+Arunachal Pradesh,State - ARUNACHAL PRADESH (12),178863
+Total,State - MANIPUR (14),182177
+Haryana,State - NCT OF DELHI (07),184892
+Total,State - MEGHALAYA (17),187962
+Nagaland,State - NAGALAND (13),188901
+Madhya Pradesh,State - UTTAR PRADESH (09),191711
+Rajasthan,State - HARYANA (06),192074
+Madhya Pradesh,State - RAJASTHAN (08),200727
+Maharashtra,State - KARNATAKA (29),222664
+NCT of Delhi,State - HARYANA (06),222988
+Rajasthan,State - MAHARASHTRA (27),225488
+Bihar,State - HARYANA (06),225868
+Uttar Pradesh,State - RAJASTHAN (08),231010
+Bihar,State - GUJARAT (24),237094
+Total,State - NAGALAND (13),239462
+Total,State - ARUNACHAL PRADESH (12),241443
+Total,State - CHANDIGARH (04),245765
+NCT of Delhi,State - NCT OF DELHI (07),256346
+Total,State - PUDUCHERRY (34),259635
+Goa,State - GOA (30),260989
+NCT of Delhi,State - UTTAR PRADESH (09),271932
+Gujarat,State - MAHARASHTRA (27),279594
+Tamil Nadu,State - KARNATAKA (29),283251
+Tripura,State - TRIPURA (16),287475
+Uttar Pradesh,State - PUNJAB (03),291331
+Bihar,State - WEST BENGAL (19),299184
+Bihar,State - MAHARASHTRA (27),310656
+Rajasthan,State - GUJARAT (24),312794
+Uttar Pradesh,State - MADHYA PRADESH (23),320604
+Total,State - TRIPURA (16),327335
+Madhya Pradesh,State - MAHARASHTRA (27),333821
+Bihar,State - UTTAR PRADESH (09),349722
+Uttar Pradesh,State - UTTARAKHAND (05),363951
+Maharashtra,State - GUJARAT (24),376119
+Andhra Pradesh,State - KARNATAKA (29),381946
+Bihar,State - JHARKHAND (20),385492
+Total,State - GOA (30),396445
+Uttar Pradesh,State - HARYANA (06),472193
+Karnataka,State - MAHARASHTRA (27),478359
+Uttar Pradesh,State - GUJARAT (24),504548
+Bihar,State - NCT OF DELHI (07),516632
+Himachal Pradesh,State - HIMACHAL PRADESH (02),650474
+Jammu & Kashmir,State - JAMMU & KASHMIR (01),718300
+Total,State - JAMMU & KASHMIR (01),788928
+Total,State - HIMACHAL PRADESH (02),856370
+Uttar Pradesh,State - NCT OF DELHI (07),959658
+Uttarakhand,State - UTTARAKHAND (05),1010264
+Uttar Pradesh,State - MAHARASHTRA (27),1149726
+Total,State - UTTARAKHAND (05),1545153
+Haryana,State - HARYANA (06),1928466
+Jharkhand,State - JHARKHAND (20),2206400
+Chhattisgarh,State - CHHATTISGARH (22),2434137
+Total,State - NCT OF DELHI (07),2521836
+Punjab,State - PUNJAB (03),2568732
+Assam,State - ASSAM (18),2577931
+Total,State - ASSAM (18),2720204
+Total,State - JHARKHAND (20),2867456
+Total,State - CHHATTISGARH (22),2909740
+Total,State - HARYANA (06),3453628
+Total,State - PUNJAB (03),3555241
+Odisha,State - ODISHA (21),3983612
+Total,State - ODISHA (21),4294259
+Kerala,State - KERALA (32),5380723
+Total,State - KERALA (32),5693564
+Rajasthan,State - RAJASTHAN (08),5783229
+Bihar,State - BIHAR (10),6251224
+Total,State - BIHAR (10),6579514
+Madhya Pradesh,State - MADHYA PRADESH (23),6685861
+Total,State - RAJASTHAN (08),6767960
+Karnataka,State - KARNATAKA (29),7170934
+Gujarat,State - GUJARAT (24),7191353
+Total,State - MADHYA PRADESH (23),7591689
+West Bengal,State - WEST BENGAL (19),7643237
+Total,State - WEST BENGAL (19),8331752
+Total,State - KARNATAKA (29),8647134
+Total,State - GUJARAT (24),9106032
+Tamil Nadu,State - TAMIL NADU (33),9309427
+Total,State - TAMIL NADU (33),9977915
+Andhra Pradesh,State - ANDHRA PRADESH (28),9988305
+Total,State - ANDHRA PRADESH (28),10599362
+Uttar Pradesh,State - UTTAR PRADESH (09),12128007
+Total,State - UTTAR PRADESH (09),13548890
+Maharashtra,State - MAHARASHTRA (27),15996425
+Total,State - MAHARASHTRA (27),19644780

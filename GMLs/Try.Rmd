@@ -1,0 +1,10 @@
+```{r}
+library(tidyverse)
+library(ggraph)
+library(tidygraph)
+library(multiplex)
+library(igraph)
+G=read.graph("6.gml",format="gml")
+print(summary(G))
+```
+
